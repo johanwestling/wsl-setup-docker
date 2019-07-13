@@ -1,5 +1,5 @@
 # wsl-setup-docker
-Setup Docker CE on WSL 2
+Setup docker & docker-compose on WSL 2
 
 ```bash
 # Run setup script.
