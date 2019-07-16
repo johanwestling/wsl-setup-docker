@@ -7,7 +7,8 @@ apt-get remove \
   docker-engine \
   docker.io \
   containerd \
-  runc
+  runc \
+  > /dev/null 2>&1
 
 # Update package index.
 apt-get update
